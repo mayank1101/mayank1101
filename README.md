@@ -7,7 +7,7 @@ I am pursuing masters :man_student: from **Indian Institute of Technology Jammu 
 - 🔭 I’m currently working on my masters thesis :book:.
 - 🌱 I’m currently learning computer vision and deep learning  from various online platforms like coursera, udacity, datacamp etc.
 - 📫 More than happy to connect on LinkedIn: https://www.linkedin.com/in/mayank-sharma-93a48289/
-- :mailbox_with_mail: Email: 2019pcs0006@iitjammu.ac.in
+- :mailbox_with_mail: Email: mayanksharma.dev01@gmail.com
 - :man_student: About me,  I am pure hardwork :heavy_plus_sign: a little talent :heavy_plus_sign: a little humor :heavy_plus_sign: and a lot of neardyness :infinity: :nerd_face:
 - :ear_with_hearing_aid: You ask what I do in free time? :thinking: well, I am a fledling :hatched_chick: bookworm :books:	:bug: :stuck_out_tongue:  and I love sketching :crayon: and painting :paintbrush:
 <!--
