@@ -1,7 +1,6 @@
 
 
 ## Hi there 👋, Welcome to my GitHub :octocat:, I am Mayank Sharma :alien: :mage_man:
-## :house_with_garden: Working from home.
 
 I am pursuing masters :man_student: from **Indian Institute of Technology Jammu (IIT Jammu)** in **Computer Science (Data Science)**. My interest areas are __Deep Learning__, **Computer Vision** and __Machine Learning__ :robot:. 
 
