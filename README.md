@@ -2,7 +2,7 @@
 
 I am pursuing masters :man_student: from **Indian Institute of Technology Jammu (IIT Jammu)** in **Computer Science (Data Science)**. My interest areas are __Deep Learning__, **Computer Vision** and __Machine Learning__ :robot:. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank1101" alt="https://github.com/mayank1101" /> </p>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank1101" alt="https://github.com/mayank1101" /> </p>
 
 - 🔭 I’m currently working on my masters thesis :book:.
 - 🌱 I’m currently learning computer vision and deep learning  from various online platforms like coursera, udacity, datacamp etc.
