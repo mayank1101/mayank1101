@@ -1,44 +1,36 @@
-## Hi there 👋, Welcome to my GitHub :octocat:, I am Mayank Sharma :alien: :mage_man:
+<h1 align="center">Hi 👋, I'm Mayank Sharma :alien: :mage_man:</h1>
+<h3 align="center">I am pursuing masters 👨‍🎓 from Indian Institute of Technology Jammu (IIT Jammu) in Computer Science (Data Science)</h3>
 
-I am pursuing masters :man_student: from **Indian Institute of Technology Jammu (IIT Jammu)** in **Computer Science (Data Science)**. My interest areas are __Deep Learning__, **Computer Vision** and __Machine Learning__ :robot:. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank1101" alt="mayank1101" /> </p>
 
-### <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank1101" alt="https://github.com/mayank1101" /> </p>
+- 🔭 I’m currently working on **my masters thesis titled Hyper Resolution and Its Practical Implementations**
 
-- 🔭 I’m currently working on my masters thesis :book:.
-- 🌱 I’m currently learning computer vision and deep learning  from various online platforms like coursera, udacity, datacamp etc.
-- 📫 More than happy to connect with you on LinkedIn: https://www.linkedin.com/in/mayank-sharma-93a48289/
-- :mailbox_with_mail: Email: 2019pcs0006@iitjammu.ac.in
-- :man_student: About me,  I am pure hardwork :heavy_plus_sign: a little talent :heavy_plus_sign: a little humor :heavy_plus_sign: and a lot of neardyness :infinity: :nerd_face:
-- :ear_with_hearing_aid: You ask what I do in free time? :thinking: well, I am a fledling :hatched_chick: bookworm :books:	:bug: :stuck_out_tongue:  and I love sketching :crayon: and painting :paintbrush:
+- 🌱 I’m currently learning **computer vision and deep learning from various online platforms like Coursera, Udacity, DataCamp etc..**
 
-<!--
-- :ear_with_hearing_aid: I heard you ask, what qualities do I have? Sorry to upset you :thinking: Multitasking :octopus: avid learner :frog:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-<h1 align="center">Hi there 👋, Welcome to my GitHub :octocat:, I am Mayank Sharma :alien: :mage_man:</h1>
-<h3 align="center">I am pursuing masters :man_student: from **Indian Institute of Technology Jammu (IIT Jammu)** in **Computer Science (Data Science)**. My interest areas are __Deep Learning__, **Computer Vision** and __Machine Learning__ :robot:. </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank1101" alt="https://github.com/mayank1101" /> </p>
-
-- 🔭 I’m currently working on ** my masters thesis :book:.**
+- 🤝 I’m looking for help with **U-net on 3D Medical Images**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayank1101](https://github.com/mayank1101)
 
-- 📝 I regulary write articles on [Deep Learning, Computer Vision and Machine Learning](Deep Learning, Computer Vision and Machine Learning)
+- 💬 Ask me about **git, machine learning and deep learning**
 
-- mailbox_with_mail: Email: **mayanksharma.dev01@gmail.com**
+- 📫 How to reach me **2019pcs0006@iitjammu.ac.in**
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/mayank1101&show_icons=true" alt="https://github.com/mayank1101" /> </p>
+- :man_student: About me, **I am pure hardwork :heavy_plus_sign: a little talent :heavy_plus_sign: a little humor :heavy_plus_sign: and a lot of neardyness :infinity: :nerd_face:**
+
+- 👨‍🎓 About me, I am pure hardwork ➕ a little talent ➕ a little humor ➕ and a lot of neardyness ♾️ 🤓
+
+- 🦻 You ask what I do in free time? 🤔 well, I am a fledling 🐥 bookworm 📚 🐛 😛 and I love sketching 🖍️ and painting 🖌️
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank1101&layout=compact" alt="mayank1101" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank1101&show_icons=true" alt="mayank1101" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayank-sharma-93a48289/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mayank-sharma-93a48289/" height="20" width="20" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mayank1101sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/mayank1101sharma" height="20" width="20" /></a>
-<a href="https://fb.com/https://www.facebook.com/may1101ank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/may1101ank" height="20" width="20" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sharma.d.mayank/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sharma.d.mayank/" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/mayank-sharma-93a48289" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mayank-sharma-93a48289" height="30" width="30" /></a>
+<a href="https://kaggle.com/mayank1101sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mayank1101sharma" height="30" width="30" /></a>
+<a href="https://instagram.com/sharma.d.mayank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sharma.d.mayank" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/2019pcs0006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="2019pcs0006" height="30" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mayank1101/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="mayank1101/profile" height="30" width="30" /></a>
 </p>
--->
