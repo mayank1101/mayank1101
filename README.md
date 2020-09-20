@@ -22,7 +22,7 @@
 
 &nbsp;
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank1101&show_icons=true" alt="mayank1101" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mayank1101&show_icons=true" alt="mayank1101" /></p>
 
 &nbsp;
 
