@@ -2,7 +2,7 @@
 <h3 align="center">I am pursuing masters 👨‍🎓 from Indian Institute of Technology Jammu (IIT Jammu) in Computer Science (Data Science)</h3>
 
 
-<p align="left">
+<p align="center">
 <a href="https://sourcerer.io/mayank1101"><img src="https://img.shields.io/badge/Mayank-Sharma-orange.svg" alt=""></a>
 <img src="https://komarev.com/ghpvc/?username=mayank1101" alt="mayank1101" /> 
 </p>
