@@ -24,8 +24,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank1101&show_icons=true" alt="mayank1101" /></p>
 
-&nbsp;
-
 <p align="center">
 <a href="https://linkedin.com/in/mayank-sharma-93a48289" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mayank-sharma-93a48289" height="30" width="30" /></a>
 <a href="https://kaggle.com/mayank1101sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mayank1101sharma" height="30" width="30" /></a>
