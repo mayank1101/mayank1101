@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma :alien: :mage_man:</h1>
 <h3 align="center">I am pursuing masters 👨‍🎓 from Indian Institute of Technology Jammu (IIT Jammu) in Computer Science (Data Science)</h3>
 
-<a href="https://sourcerer.io/mayank1101"><img src="https://avatars1.githubusercontent.com/u/11907947?v=4" height="80px" width="80px" alt="Avatar" style="border-radius:50%" /></a>
 
-<p align="center">
+<p align="left">
 <a href="https://sourcerer.io/mayank1101"><img src="https://img.shields.io/badge/Mayank Sharma-orange.svg" alt=""></a>
  <img src="https://komarev.com/ghpvc/?username=mayank1101" alt="mayank1101" /> </p>
 
