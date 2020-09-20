@@ -22,9 +22,9 @@
 
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank1101&layout=compact" alt="mayank1101" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank1101&show_icons=true" alt="mayank1101" /></p>
+
+&nbsp;
 
 <p align="center">
 <a href="https://linkedin.com/in/mayank-sharma-93a48289" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mayank-sharma-93a48289" height="30" width="30" /></a>
