@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **my masters thesis titled Hyper Resolution and Its Practical Implementations**
+- 🔭 I’m currently working on **my masters thesis titled Medical Image Super Resolution and Its Practical Implementations**
 - 🌱 I’m currently learning **computer vision and deep learning from various online platforms like Coursera, Udacity, DataCamp etc..**
 - 🤝 I’m looking for help with **U-net on 3D Medical Images**
 - 👨‍💻 All of my projects are available at [https://github.com/mayank1101](https://github.com/mayank1101)
