@@ -23,7 +23,7 @@
 
 <p align="left">
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank1101&" alt="afds" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank1101&show_icons=true" alt="mayank1101" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank1101&show_icons=true" alt="mayank1101" /></p>
 </p>
 
 <h3 align="left">Connect with me:</h3>
