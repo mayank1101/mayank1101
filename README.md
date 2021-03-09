@@ -8,9 +8,9 @@
 </p>
 
 
-- 🔭 I’m currently working on **my masters thesis titled Deep Learning Based Medical Image Super-Resolution And Disease Detection**
+- 🔭 I’m currently working on **my masters thesis titled Medical Image Super Resolution**
 - 🌱 I’m currently learning **computer vision and deep learning from various online platforms like Coursera, Udacity, DataCamp etc..**
-- 🤝 I’m looking for help with **U-net on 3D Medical Images**
+- 🤝 I’m looking for help with **Deep Learning and Blockchain**
 - 👨‍💻 All of my projects are available at [https://github.com/mayank1101](https://github.com/mayank1101)
 - 💬 Ask me about **git, machine learning and deep learning**
 - 📫 How to reach me **2019pcs0006@iitjammu.ac.in**
