@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/mayank1101](https://github.com/mayank1101)
 - 💬 Ask me about **git, machine learning and deep learning**
 - 📫 How to reach me **2019pcs0006@iitjammu.ac.in**
-- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1FhUnkE4FSFWMo9KSM-BKW4FhfYGvF1wl/view?usp=sharing)
+- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1lAZaUXCVeNhyJj8pGkRyiMhhNMKb2YqK/view?usp=sharing)
 - 👨‍🎓 About me, I am pure hardwork ➕ a little talent ➕ a little humor ➕ and a lot of neardyness ♾️ 🤓
 - 🦻 You ask what I do in free time? 🤔 well, I am a fledling 🐥 bookworm 📚 🐛 😛 and I love sketching 🖍️ and painting 🖌️
 
