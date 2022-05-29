@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/mayank1101](https://github.com/mayank1101)
 - 💬 Ask me about **Algorithms, machine learning and deep learning**
 - 📫 How to reach me **2019pcs0006@iitjammu.ac.in**
-- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/16oj9M94pJojJeE3UAQPRgBDmV80EXEsi/view?usp=sharing)
+- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1sLVfLb1a8ET9W224k2Uo5OLhzm6J6ZCH/view?usp=sharing)
 - 👨‍🎓 About me, I am pure hardwork ➕ a little talent ➕ a little humor ➕ and a lot of neardyness ♾️ 🤓
 - 🦻 You ask what I do in free time? 🤔 well, I am a fledling 🐥 bookworm 📚 🐛 😛 and I love sketching 🖍️ and painting 🖌️
 
@@ -35,9 +35,7 @@
 <a href="https://www.facebook.com/sharma.d.mayank/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dfsdf" height="30" width="40" /></a>
 <a href="https://instagram.com/sharma.d.mayank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fsdf" height="30" width="40" /></a>
 <a href="https://medium.com/sdfsd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sdfsd" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mayank1101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fsdf" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/2019pcs0006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dfsd" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mayank1101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sdfsd" height="30" width="40" /></a>
 <a href="https://leetcode.com/mayank1101/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="fdsf" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mayank1101/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="mayank1101/profile" height="30" width="30" /></a>
 </p>
