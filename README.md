@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma :alien: :mage_man:</h1>
-<h3 align="center">I am pursuing masters 👨‍🎓 from Indian Institute of Technology Jammu (IIT Jammu) in Computer Science (Data Science)</h3>
+<h3 align="center">I did my Master's 👨‍🎓 from the Indian Institute of Technology Jammu (IIT Jammu) in Computer Science with specialisation in Data Science</h3>
 
 
 <p align="center">
@@ -8,15 +8,14 @@
 </p>
 
 
-- 🔭 I’m currently working on **my masters thesis titled Medical Image Super Resolution**
-- 🌱 I’m currently learning **computer vision and deep learning from various online platforms like Coursera, Udacity, DataCamp etc..**
-- 🤝 I’m looking for help with **Deep Learning and NLP**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, NLP, LLM's**
+- 🌱 I’m currently learning **LLM and MLOps**
 - 👨‍💻 All of my projects are available at [https://github.com/mayank1101](https://github.com/mayank1101)
-- 💬 Ask me about **Algorithms, machine learning and deep learning**
-- 📫 How to reach me **2019pcs0006@iitjammu.ac.in**
-- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1jYY8Ww0_CYTZx2Yr5mvqzhJ6qJ023ANN/view?usp=share_link)
-- 👨‍🎓 About me, I am pure hardwork ➕ a little talent ➕ a little humor ➕ and a lot of neardyness ♾️ 🤓
-- 🦻 You ask what I do in free time? 🤔 well, I am a fledling 🐥 bookworm 📚 🐛 😛 and I love sketching 🖍️ and painting 🖌️
+- 💬 Ask me about **Machine Learning, deep learning, NLP, Computer Vision and Software Development**
+- 📫 How to reach me **sharma.mayank.iitjammu@gmail.com**
+- 📄 Know about my experiences : [My Updated Resume (August 2023)](https://drive.google.com/file/d/13phN-rcB3rDmnE_ivMTKdj120fmarjtZ/view?usp=sharing)
+- 👨‍🎓 About me, I am pure hard work ➕ a little bit of talent ➕ a little humor ➕ and a lot of neardyness ♾️ 🤓
+- 🦻 You ask what I do in my free time. 🤔 well, I am a fledgling 🐥 bookworm 📚 🐛 😛 and I love sketching 🖍️ and painting 🖌️
 
 &nbsp;
 <!--
@@ -31,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--<a href="https://twitter.com/sharma_d_mayank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sharma_d_mayank" height="30" width="40" /></a>-->
-<a href="https://linkedin.com/in/mayank-sharma-93a48289" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fsfds" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sharma-mayank-m11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fsfds" height="30" width="40" /></a>
 <!--<a href="https://kaggle.com/mayank1101sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mayank1101sharma" height="30" width="40" /></a>-->
 <a href="https://www.facebook.com/sharma.d.mayank/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dfsdf" height="30" width="40" /></a>
 <a href="https://instagram.com/sharma.d.mayank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fsdf" height="30" width="40" /></a>
