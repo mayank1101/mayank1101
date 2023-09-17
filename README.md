@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/mayank1101](https://github.com/mayank1101)
 - 💬 Ask me about **Machine Learning, deep learning, NLP, Computer Vision and Software Development**
 - 📫 How to reach me **sharma.mayank.iitjammu@gmail.com**
-- 📄 Know about my experiences : [My Updated Resume (September 2023)](https://drive.google.com/file/d/15FAtukv9xiTzR3k8zlnREFJ8O3d8gITJ/view?usp=drivesdk)
+- 📄 Know about my experiences : [My Updated Resume (September 2023)](https://drive.google.com/file/d/1uCR4MLBcCPAFcuPbGFG2FbYExD_Zc19x/view?usp=sharing)
 - 👨‍🎓 About me, I am pure hard work ➕ a little bit of talent ➕ a little humor ➕ and a lot of nerdiness ♾️ 🤓
 - 🦻 You ask what I do in my free time. 🤔 well, I am a fledgling 🐥 bookworm 📚 🐛 😛 and I love sketching 🖍️ and painting 🖌️
 
