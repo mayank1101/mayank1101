@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, NLP, LLM's**
+- 🔭 I’m currently working on **Deep Learning, Natural Language Processing (NLP), Computer Vision (CV) and LLM's**
 - 🌱 I’m currently learning **LLM and MLOps**
 - 👨‍💻 All of my projects are available at [https://github.com/mayank1101](https://github.com/mayank1101)
 - 💬 Ask me about **Machine Learning, deep learning, NLP, Computer Vision and Software Development**
