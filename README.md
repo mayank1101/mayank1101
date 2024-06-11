@@ -8,12 +8,12 @@
 </p>
 
 
-- 🔭 I’m currently working on **Deep Learning, Natural Language Processing (NLP), Computer Vision (CV) and LLM's**
-- 🌱 I’m currently learning **LLM and MLOps**
+- 🔭 I’m currently working on **Deep Learning, Natural Language Processing (NLP), GenerativeAI, and RAG**
+- 🌱 I’m currently learning **Generative AI and MLOps**
 - 👨‍💻 All of my projects are available at [https://github.com/mayank1101](https://github.com/mayank1101)
 - 💬 Ask me about **Machine Learning, deep learning, NLP, Computer Vision and Software Development**
 - 📫 How to reach me **sharma.mayank.iitjammu@gmail.com**
-- 📄 Know about my experiences : [My Updated Resume](https://drive.google.com/file/d/1kmRpuU3aHluuB6tAbwrpe1JU1virZhbS/view?usp=drive_link)
+- 📄 Know about my experiences : [My Updated Resume](https://drive.google.com/file/d/139vfo8agoMyQtnSMXfwIMQWi3OQv2WtQ/view?usp=sharing)
 - 👨‍🎓 About me, I am pure hard work ➕ a little bit of talent ➕ a little humor ➕ and a lot of nerdiness ♾️ 🤓
 - 🦻 You ask what I do in my free time. 🤔 well, I am a fledgling 🐥 bookworm 📚 🐛 😛 and I love sketching 🖍️ and painting 🖌️
 
