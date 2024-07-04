@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Deep Learning, Natural Language Processing (NLP), GenerativeAI, and RAG**
 - 🌱 I’m currently learning **Generative AI and MLOps**
 - 👨‍💻 All of my projects are available at [https://github.com/mayank1101](https://github.com/mayank1101)
-- 💬 Ask me about **Machine Learning, deep learning, NLP, Computer Vision and Software Development**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, GenAI and Software Development**
 - 📫 How to reach me **sharma.mayank.iitjammu@gmail.com**
 # - 📄 Know about my experiences : [My Updated Resume](https://drive.google.com/file/d/19U11jTA16iRfgWs3AKoq6hY--2cOh3No/view?usp=sharing)
 - 👨‍🎓 About me, I am pure hard work ➕ a little bit of talent ➕ a little humor ➕ and a lot of nerdiness ♾️ 🤓
