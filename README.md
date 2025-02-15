@@ -8,8 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Deep Learning, Natural Language Processing (NLP), GenerativeAI, and RAG**
-- 🌱 I’m currently learning **Generative AI and MLOps**
+- 🔭 I’m currently working on **Deep Learning, Natural Language Processing (NLP), GenerativeAI, RAG, Agentic AI**
 - 👨‍💻 All of my projects are available at [https://github.com/mayank1101](https://github.com/mayank1101)
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP, GenAI and Software Development**
 - 📫 How to reach me **sharma.mayank.iitjammu@gmail.com**
