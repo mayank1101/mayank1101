@@ -13,7 +13,7 @@
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP, GenAI and Software Development**
 - 📫 How to reach me **sharma.mayank.iitjammu@gmail.com**
 - 👨‍🎓 About me: built on hard work, powered by a touch of talent, sprinkled with humor, and fueled by infinite nerdiness ♾️ 🤓
-- 🦻 You ask what I do in my free time? 🤔 I’m a fledgling bookworm 📚, balancing pages with workouts — gym sessions, running, cycling and grounding it all with meditation.
+- 🦻 You ask what I do in my free time? 🤔 I’m a fledgling bookworm 📚, balancing pages with workouts — gym sessions 🏋️‍♂️, running 🏃‍♂️, cycling 🚴‍♂️ and grounding it all with meditation 🧘‍♂️.
 - 🔖 One thing to always remember about me: **my humility isn’t flattery, it’s a value shaped by a humble upbringing**.
 <!-- - 📄 Know about my experiences : [My Updated Resume](https://drive.google.com/file/d/19U11jTA16iRfgWs3AKoq6hY--2cOh3No/view?usp=sharing) -->
 
