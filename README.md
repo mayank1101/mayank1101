@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma :alien: :mage_man:</h1>
-<h3 align="center">I did my Master's 👨‍🎓 from the Indian Institute of Technology Jammu (IIT Jammu) in Computer Science with specialisation in Data Science</h3>
+<h3 align="center">I did my Master's 👨‍🎓 from the Indian Institute of Technology Jammu (IIT Jammu) in Computer Science and Engineering with specialisation in Data Science</h3>
 
 
 <p align="center">
