@@ -17,8 +17,8 @@
 - 🔖 One thing to always remember about me: **my humility isn’t flattery, it’s a value shaped by a humble upbringing**.
 <!-- - 📄 Know about my experiences : [My Updated Resume](https://drive.google.com/file/d/19U11jTA16iRfgWs3AKoq6hY--2cOh3No/view?usp=sharing) -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank1101&" alt="mayank1101" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank1101&show_icons=true" alt="mayank1101" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank1101&" alt="mayank1101" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank1101&show_icons=true" alt="mayank1101" /></p> -->
 
 
 <!-- <h3 align="left">Connect with me:</h3> -->
