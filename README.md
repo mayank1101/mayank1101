@@ -26,5 +26,5 @@ Product Manager • AI & Analytics Professional • IIT Jammu
 - 🚀 5+ years building products across AI, Analytics, Healthcare, Manufacturing, and Enterprise Systems
 - 📊 Passionate about Product Strategy, User Experience, Analytics, and Data-Driven Decision Making
 - 📚 Co-author of **OpenMedLM (AAAI 2024 & NEJM AI)**
-- ✍️ Writing about AI, Product Thinking, and Analytics at **hellomayank.in/blog**
+- ✍️ Writing about AI, Product Thinking, and Analytics at 👉 **[Token By Token](https://www.hellomayank.in/TokenByToken.html)**
 
