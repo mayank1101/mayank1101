@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Product Manager • AI & Analytics Professional • IIT Jammu
+Product Management • AI & Analytics • IIT Jammu
 </h3>
 
 <p align="center">
@@ -22,7 +22,7 @@ Product Manager • AI & Analytics Professional • IIT Jammu
   </a>
 </p>
 
-- 🎓 M.Tech in Data Science from **IIT Jammu**
+- 🎓 M.Tech in CSE (Data Science) from **IIT Jammu**
 - 🚀 5+ years building products across AI, Analytics, Healthcare, Manufacturing, and Enterprise Systems
 - 📊 Passionate about Product Strategy, User Experience, Analytics, and Data-Driven Decision Making
 - 📚 Co-author of **OpenMedLM (AAAI 2024 & NEJM AI)**
