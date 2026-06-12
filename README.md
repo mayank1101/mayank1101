@@ -23,7 +23,7 @@ Product Management • AI & Analytics • IIT Jammu
 </p>
 
 - 🎓 M.Tech in CSE (Data Science) from **IIT Jammu**
-- 🚀 4+ years building products across AI, Analytics, Healthcare, Enterprise Knowledge Management, and Operational Analytics
+- 🚀 4.5+ years building products across AI, Analytics, Healthcare, Enterprise Knowledge Management, and Operational Analytics
 - 📊 Passionate about Product Strategy, User Experience, Analytics, and Data-Driven Decision Making
 - 📚 Co-author of **OpenMedLM (AAAI 2024 & NEJM AI)**
 - ✍️ Writing about AI, Product Thinking, and Analytics at 👉 **[Token By Token](https://www.hellomayank.in/TokenByToken.html)**
