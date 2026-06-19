@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Senior+Applied+AI+Engineer;NLP+%7C+GenAI+%7C+RAG+%7C+Healthcare+AI;4.5%2B+Years+Building+Enterprise+AI+Systems;AAAI+2024+Published+Researcher;Token+by+Token+%E2%80%94+AI+Explained+Without+the+Jargon" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=AI+Product+Management;NLP+%7C+GenAI+%7C+RAG+%7C+Healthcare+AI;Built+on+4.5%2B+Years+in+Applied+AI+%26+GenAI;NLP+%7C+RAG+%7C+LLM+Systems+%7C+Healthcare+AI;AAAI+2024+Published+Researcher;Token+by+Token+%E2%80%94+AI+Explained+Without+the+Jargon" />
 </p>
 
 <h3 align="center">
-Applied AI Engineering • NLP & GenAI • IIT Jammu
+AI Product Management • GenAI & LLM Systems  • IIT Jammu
 </h3>
 
 <p align="center">
