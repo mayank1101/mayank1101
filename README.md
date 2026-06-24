@@ -23,7 +23,7 @@ AI Product Management • Product & AI  • IIT Jammu
 </p>
 
 - 🎓 M.Tech in CSE (Data Science) from **IIT Jammu**
-- 🚀 5 years building AI systems - NLP pipelines, RAG assistants, healthcare AI, and regulatory intelligence platforms
+- 🚀 5+ years building AI systems - NLP pipelines, RAG assistants, healthcare AI, and regulatory intelligence platforms
 - 🏥 Production AI at scale: **LamiOps** (10K+ daily users), **Regulatory Intelligence Platform** (200+ sources, 18+ countries)
 - ⚡ **Bravo Award at nference** - 8× model compression, 9× inference speedup via knowledge distillation + TensorRT
 - 📚 Co-author of **OpenMedLM (AAAI 2024 & NEJM AI)** - first open-source model to surpass 80% on MMLU medical-subset
