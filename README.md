@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-AI Product Management • Product & AI  • IIT Jammu
+AI Product Management • Product x Engineering x AI  • IIT Jammu
 </h3>
 
 <p align="center">
