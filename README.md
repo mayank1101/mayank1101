@@ -27,4 +27,4 @@ Product x Engineering • GenAI & LLMs • IIT Jammu
 - 🏥 Production AI at scale: **LamiOps** (10K+ daily users), **Regulatory Intelligence Platform** (200+ sources, 18+ countries)
 - ⚡ **Bravo Award at nference** - 8× model compression, 9× inference speedup via knowledge distillation + TensorRT
 - 📚 Co-author of **OpenMedLM (AAAI 2024 & NEJM AI)** - first open-source model to surpass 80% on MMLU medical-subset
-- 👉 **[Product Case Studies](https://www.hellomayank.in/case-studies.html)** - real problems, real decisions, how I'd approach them as a PM
+<!-- - 👉 **[Product Case Studies](https://www.hellomayank.in/case-studies.html)** - real problems, real decisions, how I'd approach them as a PM -->
