@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=AI+Product+Management;NLP+%7C+GenAI+%7C+RAG+%7C+Healthcare+AI;Built+on+5%2B+Years+in+Data+Science+%26+AI;AAAI+2024+Published+Researcher;Product+Case+Studies+%E2%80%94+Real+Problems%2C+Real+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Applied+AI+%26+Engineering;NLP+%7C+GenAI+%7C+RAG+%7C+Healthcare+AI;Built+on+5%2B+Years+in+Data+Science+%26+AI;AAAI+2024+Published+Researcher" />
 </p>
 
 <h3 align="center">
-Product x Engineering • GenAI & LLMs • IIT Jammu
+Applied AI & Engineering • GenAI & LLMs • IIT Jammu
 </h3>
 
 <p align="center">
