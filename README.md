@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Data Scientist & Analytics Engineer • GenAI & LLMs • IIT Jammu
+Data Scientist & Analytics Engineer • Data & AI • IIT Jammu
 </h3>
 
 <p align="center">
