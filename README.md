@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Technical+Program+Management;NLP+%7C+GenAI+%7C+RAG+%7C+Healthcare+AI;Built+on+5%2B+Years+in+Data+Science+%26+AI;AAAI+2024+Published+Researcher;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Data+Scientist+%26+Analytics+Engineer;SQL+%7C+PowerBI+%7C+RAG+%7C+GenAI+%7C+Healthcare+AI;Built+on+4%2B+Years+in+Data%2C+Analytics+%26+AI;AAAI+2024+Published+Researcher" />
 </p>
 
 <h3 align="center">
-Management x Engineering • Generative AI, LLMs & RAG • IIT Jammu
+Data Scientist & Analytics Engineer • Data & AI • IIT Jammu
 </h3>
 
 <p align="center">
@@ -23,7 +23,6 @@ Management x Engineering • Generative AI, LLMs & RAG • IIT Jammu
 </p>
 
 - 🎓 M.Tech in CSE (Data Science) from **IIT Jammu** • Top 1% nationally (98.9 percentile, AIR-1406) in GATE CSE 2019
-- 📊 MSSQL, PostgreSQL, PowerBI & PySpark - turning raw data into production-ready, evaluated systems
-- 🏥 Production AI at scale: RAG-powered enterprise assistant (10K+ daily users), regulatory intelligence platform (200+ sources, 18+ countries)
-- ⚡ 8× model compression, 9× inference speedup via knowledge distillation + TensorRT optimization on production healthcare NLP models
+- 🚀 4+ years building data, analytics & AI pipelines - NLP, RAG assistants, healthcare AI, and regulatory intelligence platforms
+- 📊 Data Modelling, Data Warehouse, Snowflake, PySpark, SQL (MSSQL, PostgreSQL) - turning raw data into production-ready, evaluated systems
 - 📚 Co-author of **OpenMedLM (AAAI 2024 & NEJM AI)** - first open-source model to surpass 80% on MMLU medical-subset
