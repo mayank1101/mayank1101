@@ -23,7 +23,7 @@ AI Program Management x Engineering • AI Analytics, Generative AI, LLMs & RAG 
 </p>
 
 - 🎓 M.Tech in CSE (Data Science) from **IIT Jammu** • Top 1% nationally (98.9 percentile, AIR-1406) in GATE CSE 2019
-- 📊 SQL, PowerBI & PySpark - turning raw data into production-ready, evaluated systems
+- 📊 SQL, Analytics & AI - turning raw data into production-ready, evaluated systems
 - 🏥 Production AI at scale: RAG-powered enterprise assistant (10K+ daily users), regulatory intelligence platform (200+ sources, 18+ countries)
 - ⚡ 8× model compression, 9× inference speedup via knowledge distillation + TensorRT optimization on production healthcare NLP models
 - 📚 Co-author of **OpenMedLM (AAAI 2024 & NEJM AI)** - first open-source model to surpass 80% on MMLU medical-subset
