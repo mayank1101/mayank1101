@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=AI+Program+Management;NLP+%7C+GenAI+%7C+RAG+%7C+Healthcare+AI;Built+on+5%2B+Years+in+Data+Science+%26+AI;AAAI+2024+Published+Researcher;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=AI+Governance+and+Evaluation;NLP+%7C+GenAI+%7C+RAG+%7C+Healthcare+AI;Built+on+5%2B+Years+in+Data+Science+%26+AI;AAAI+2024+Published+Researcher;" />
 </p>
 
 <h3 align="center">
-AI Program Management x Engineering • AI Analytics, Generative AI, LLMs & RAG • IIT Jammu
+AI Governance x Evaluation • AI Analytics, Generative AI, LLMs & RAG • IIT Jammu
 </h3>
 
 <p align="center">
